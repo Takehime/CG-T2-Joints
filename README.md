@@ -1,6 +1,6 @@
 # CG-T2-Joints
 
-__Trabalho 2 da disciplina Computação Gráfica - UFRJ 2017.2.
+__Trabalho 2 da disciplina Computação Gráfica - UFRJ 2017.2.__
 
 Desenha polígonos com o clique do mouse e permite realizar transformações (translação e rotação) a eles.
 
